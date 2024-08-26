@@ -1,16 +1,15 @@
-## Hi there 👋
+## BOAS VINDAS AO MEU PERFIL👋
 
-<!--
-**punhanhenho/punhanhenho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME É MARIA EDUARDA DOS SANTOS TAVARES
 
-Here are some ideas to get you started:
+- ESTOU ESTUDANDO NA [ALURA](https://www.alura.com.br)
+- ESTOU ME DESENVOLVENDO NA LINGUAGEM JAVASCRIP
+- UTILIZO ESTE ESPAÇO PARA MINHA ORGANIZAÇÃO E COMPARTILHAMENTO DOS MEUS PROJETOS DESENVOLVIDOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### VOCÊ PODE ENTRAR EM CONTATO COMIGO 📫
+
+Mtaavares11820@gmail.com
+
+@eduarda_santos
+
+![](https://media1.tenor.com/m/nisaHYy8yAYAAAAd/besito-catlove.gif)
